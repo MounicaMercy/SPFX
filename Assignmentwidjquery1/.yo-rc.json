@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "assignmentwidjquery-1",
+    "libraryId": "ba652eb9-5756-4355-b5f7-8af75aa45853",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

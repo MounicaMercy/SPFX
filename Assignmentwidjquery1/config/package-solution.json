@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "assignmentwidjquery-1-client-side-solution",
+    "id": "ba652eb9-5756-4355-b5f7-8af75aa45853",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/assignmentwidjquery-1.sppkg"
+  }
+}
