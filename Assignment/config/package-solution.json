@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "assignment-client-side-solution",
+    "id": "fbe34203-b950-4ab3-a9da-6bb22705d6f8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/assignment.sppkg"
+  }
+}

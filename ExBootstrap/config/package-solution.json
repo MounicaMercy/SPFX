@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ex-bootstrap-client-side-solution",
+    "id": "895dd4c1-fed0-4fe1-876e-829319546e30",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ex-bootstrap.sppkg"
+  }
+}

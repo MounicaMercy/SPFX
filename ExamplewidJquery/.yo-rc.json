@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "examplewid-jquery",
+    "libraryId": "ea531d59-5fa8-4ba0-b14a-579865ab87bc",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

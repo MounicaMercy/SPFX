@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "examplewid-jquery-client-side-solution",
+    "id": "ea531d59-5fa8-4ba0-b14a-579865ab87bc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/examplewid-jquery.sppkg"
+  }
+}
